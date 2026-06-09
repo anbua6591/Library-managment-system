@@ -1,0 +1,66 @@
+Title
+Library Management System
+
+
+Problem Statement
+Traditional library management is often performed manually, which can lead to errors in book records, delays in issuing and returning books, difficulty tracking borrowed books, and increased administrative workload. A digital Library Management System is needed to automate these processes, improve efficiency, and provide accurate record management.
+
+
+Objectives
+Automate library operations.
+Maintain book and student records efficiently.
+Simplify book issue and return processes.
+Reduce manual errors.
+Provide quick search and retrieval of book information.
+Send notifications for due dates and reminders.
+Generate reports for library management.
+
+Modules
+1. User Authentication Module
+User login and authentication
+Role-based access control
+2. Book Management Module
+Add new books
+Update book details
+Delete books
+Search books
+3. Student Management Module
+Add student records
+Update student information
+View student details
+4. Book Issue & Return Module
+Issue books to students
+Return borrowed books
+Track due dates
+5. Barcode Management Module
+Generate barcode for books
+Scan barcode for quick operations
+6. Notification Module
+Email reminders
+Due date notifications
+7. Reports Module
+Issue history reports
+Return history reports
+Inventory reports
+System Modules Table
+Module	Description
+User Authentication	Manages login and user access
+Book Management	Handles book records and inventory
+Student Management	Maintains student information
+Issue & Return	Tracks borrowing and returning of books
+Barcode Management	Enables barcode-based operations
+Notification System	Sends email alerts and reminders
+Reports Generation	Generates library reports
+
+Technologies Used
+Category	Technology
+Frontend	HTML, CSS, Bootstrap, React.js
+Backend	Spring Boot (Java)
+Database	MySQL
+Tools	Git, GitHub, VS Code
+Future Enhancements
+QR Code Integration
+Mobile Application
+Online Book Reservation
+AI-Based Book Recommendations
+Digital Library Support
